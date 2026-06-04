@@ -26,6 +26,26 @@ As a **Business Analyst at Amazon**, the objective was to empower stakeholders w
 
 ---
 
+## 📊 Dashboard
+
+### 🖥️ Executive Overview ( Main Page )
+.
+<img width="1542" height="968" alt="image" src="https://github.com/user-attachments/assets/812e37c1-fc6b-4f0e-801e-c4d2bdf6b143" />
+
+---
+
+### 📦 Product Category Analysis
+
+
+---
+
+### 🔍 Individual Product Deep Dive
+.
+<img width="768" height="486" alt="Screenshot 2026-06-04 at 4 59 59 PM" src="https://github.com/user-attachments/assets/797ced8c-075f-4c65-9997-47ef4390ab5e" />
+
+
+---
+
 ## 📊 Dataset Information
 
 | Property | Details |
@@ -156,32 +176,6 @@ Prev_Year_Month_Revenue = CALCULATE(
 ```dax
 -- Total sales for Product Category "Fashion" & Delivery Type "Shipped from Abroad"
 -- Result: 4.14M
-```
-
----
-
-## 📊 Dashboard
-
-### 🖥️ Executive Overview
-<!-- Add your Executive Overview Dashboard screenshot here -->
-```
-[ INSERT EXECUTIVE OVERVIEW DASHBOARD SCREENSHOT HERE ]
-```
-
----
-
-### 📦 Product Category Analysis
-<!-- Add your Product Category Analysis screenshot here -->
-```
-[ INSERT PRODUCT CATEGORY ANALYSIS DASHBOARD SCREENSHOT HERE ]
-```
-
----
-
-### 🔍 Individual Product Deep Dive
-<!-- Add your Individual Product Deep Dive screenshot here -->
-```
-[ INSERT INDIVIDUAL PRODUCT DEEP DIVE DASHBOARD SCREENSHOT HERE ]
 ```
 
 ---
