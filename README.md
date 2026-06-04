@@ -39,7 +39,7 @@ As a **Business Analyst at Amazon**, the objective was to empower stakeholders w
 ---
 
 ### 🔍 Individual Product Deep Dive
-<img width="768" height="486" alt="Screenshot 2026-06-04 at 4 59 59 PM" src="https://github.com/user-attachments/assets/797ced8c-075f-4c65-9997-47ef4390ab5e" />
+<img width="1536" height="972" alt="image" src="https://github.com/user-attachments/assets/f8b7d3c2-d399-4fac-91e0-22080b89b4b9" />
 
 
 ---
