@@ -29,11 +29,12 @@ As a **Business Analyst at Amazon**, the objective was to empower stakeholders w
 ## 📊 Dashboard
 
 ### 🖥️ Executive Overview ( Main Page )
-<img width="1542" height="968" alt="image" src="https://github.com/user-attachments/assets/812e37c1-fc6b-4f0e-801e-c4d2bdf6b143" />
+<img width="1540" height="964" alt="image" src="https://github.com/user-attachments/assets/2cf4d460-fd12-4be4-bf30-b1af595485ec" />
 
 ---
 
-### 📦 Product Category Analysis
+### 📦 Products Analysis
+<img width="1596" height="996" alt="image" src="https://github.com/user-attachments/assets/b29e74a8-267a-4a81-b65b-20484e009168" />
 
 
 ---
