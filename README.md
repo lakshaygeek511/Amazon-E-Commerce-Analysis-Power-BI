@@ -16,7 +16,7 @@
 
 This project delivers a comprehensive analysis of **Amazon E-Commerce sales data** using **Power BI** and **SQL** to uncover key business insights across customer behavior, product performance, delivery efficiency, and revenue trends for one of my freelance clients. **Due to a Non-Disclosure Agreement (NDA), the official project files cannot be shared publicly. However, this README provides screenshots of the Power BI dashboards and detailed information about the dataset.**
 
-As a **Business Analyst at Amazon**, the objective was to empower stakeholders with data-driven insights to:
+As a **Business Analyst**, the objective was to empower stakeholders with data-driven insights to:
 
 - ✅ Maintain and sustain current performance levels
 - 📈 Identify strategic growth opportunities
